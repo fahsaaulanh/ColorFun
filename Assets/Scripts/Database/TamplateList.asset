@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be82d279b500342448c27a31a7f3391c, type: 3}
+  m_Name: TamplateList
+  m_EditorClassIdentifier: 
+  tamplates:
+  - id: 0
+    tamplateName: Tamplate_01
+    tamplateObj: {fileID: -1140821049742127875, guid: 739f61f5619d1884b858fe8292341ac6, type: 3}
+  - id: 1
+    tamplateName: Tamplate_02
+    tamplateObj: {fileID: -5050060019430915659, guid: 0bf3d568e3801494b9252a352fcf4324, type: 3}
+  - id: 2
+    tamplateName: Tamplate_03
+    tamplateObj: {fileID: 6612596002912248003, guid: 5c3045af9bf81094291ee626929e0f39, type: 3}
+  - id: 3
+    tamplateName: Tamplate_04
+    tamplateObj: {fileID: -4042700537080008411, guid: 33ee510d756c3e045907bda0a76fcbf8, type: 3}
+  - id: 4
+    tamplateName: Tamplate_05
+    tamplateObj: {fileID: 4719061988100645112, guid: da151694010585c4e8f8c1071ab9f7b2, type: 3}
+  - id: 5
+    tamplateName: Tamplate_06
+    tamplateObj: {fileID: -2112347404393851219, guid: 7987a50a42770a8418b26ad0ab9695a9, type: 3}
+  - id: 6
+    tamplateName: Tamplate_07
+    tamplateObj: {fileID: 4256140323613326807, guid: aae289967386b4b4db571f2ecf594eb9, type: 3}
+  - id: 7
+    tamplateName: Tamplate_08
+    tamplateObj: {fileID: 8219965941142065533, guid: 069ab47da3b426847ae8e189c5d59cb6, type: 3}
+  - id: 8
+    tamplateName: Tamplate_09
+    tamplateObj: {fileID: -336168796068747114, guid: 59807fad2b2858c45bc4380f625c81fe, type: 3}
+  - id: 9
+    tamplateName: Tamplate_10
+    tamplateObj: {fileID: -2366269573928678120, guid: e253c011e9ca1ce469a4e9cf7e84bc34, type: 3}
